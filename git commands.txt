@@ -14,4 +14,14 @@
 
 ==> git status                                           // to see status tracking of file in git 
 
-==> git add "git commands.txt"                           // to add untracked file into git to be tracked                                          
+==> git add "git commands.txt"                           // to add untracked file into git to be tracked         
+
+==> git add -A                                           // to add all file to staged area
+
+==> git commit -m "Initial Commit"                      // to commit files present at staged area with comment "Initial Commit" 
+
+==> git checkout test1.txt                              // to check out one file test1.txt
+
+==> git checkout -f                                     // to checkout all files
+
+==> git log                                             // to see all commit's date-time and author                                 
