@@ -26,4 +26,6 @@
 
 ==> git log                                             // to see all commit's date-time and author     
 
-==> git log -p -2                                       // show last "2" commit information                             
+==> git log -p -2                                       // show last "2" commit information   
+
+==> git diff                                             // show difference between content of files/file between current working folder and staged area                           
