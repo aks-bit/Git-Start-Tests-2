@@ -10,4 +10,8 @@
 
 ==> git init                                              // to init a git setup into current folder
 
-==> ls -lart                                               to see all file present in current folder 
+==> ls -lart                                             //  to see all file present in current folder
+
+==> git status                                           // to see status tracking of file in git 
+
+==> git add "git commands.txt"                           // to add untracked file into git to be tracked                                          
