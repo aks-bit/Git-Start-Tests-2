@@ -1,0 +1,13 @@
+
+==> git config --global user.name Anands                   // set user name Anands
+
+==> git config --global user.email aksembfw@gmail.com     //set user email id aksembfw@gmail.com 
+
+
+==> git config --global user.name                         //to check user name
+
+==> git config --global user.email                        // to check user email id
+
+==> git init                                              // to init a git setup into current folder
+
+==> ls -lart                                               to see all file present in current folder 
