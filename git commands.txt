@@ -32,4 +32,4 @@
 
 ==> git branch branch_1                                 // to create new branch_1 from branch     
 
-==> git branch -b branch_2                              // to create new branch branch_2 and switch into branch_2                      
+==> git checkout -b branch_2                              // to create new branch branch_2 and switch into branch_2                      
